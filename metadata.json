@@ -1,0 +1,5 @@
+{
+  "name": "Freight AI - Smart Rake Allocation",
+  "description": "An AI-powered smart freight system for optimizing rake allocation, cargo management, and logistics efficiency.",
+  "requestFramePermissions": ["geolocation"]
+}
